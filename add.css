@@ -1,0 +1,10 @@
+.add {
+	text-decoration: none;
+	color: black;
+	outline: none;
+	/*margin: 0px 10px 0px 20px;*/
+	text-align: center; 
+}
+
+.add { width:100%; margin:0 auto; text-align:center; padding : 2px; }
+.add video { max-width:100%; }
