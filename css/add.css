@@ -11,12 +11,7 @@
 .add img { max-width:100%;  padding : 3px; border:solid 2px green;}
 
 .audio {
-  
-  
-  position: absolute;
-  top: 930px;
-  left: 45%;
-  
+  text-align: center;
 }
 
 .guitar {
@@ -25,13 +20,8 @@
   width: 250px;
   /*background: linear-gradient(#f6688e, #fab1c5);*/
   background-image: url("https://leuke-plaatjes.com/files/leuke-plaatjes-animaties/muziek/leuke-plaatjes-animaties-muziek-793449202.gif");
-  
+  text-align: center;
   background-repeat: no-repeat;
   background-size: 250px 200px;
-  display: inline-block;
-  /*border-radius: 6px 20px 1px 21px;*/
-  position: absolute;
-  top: 700px;
-  left: 45%;
-  /*border: solid 12px*/
+ 
 }
